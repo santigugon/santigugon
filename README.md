@@ -10,7 +10,7 @@
         built with React.
 - 🌱 I’m currently learning React and how to create an Open Source Project
 - 👯 I’m looking to collaborate on open source startups.
-- 💬 I can speak 3 languages fluently
+- 💬 I can speak 3 languages fluently:
       - English
       - Spanish
       - French
