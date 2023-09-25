@@ -1,5 +1,4 @@
-### Hi there I am Santiago Gutierrez Gonzalez a second year Software Engineer student in 
-[Tec de Monterrey](https://tec.mx/es)👋
+### Hi there I am Santiago Gutierrez Gonzalez a second year Software Engineer student in [Tec de Monterrey](https://tec.mx/es)
 
 - 🔭 I’m currently working on:
     -:convenience_store: [Painless Super](https://painlesssuper.com)
