@@ -11,14 +11,14 @@
 - 🌱 I’m currently learning React and how to create an Open Source Project
 - 👯 I’m looking to collaborate on open source startups.
 - 💬 I can speak 3 languages fluently
-      English
-      Spanish
-      French
+      - English
+      - Spanish
+      - French
 - 📫 How to reach me:
-    -[My portofolio]() 
-    -[Santiago Gutierrez Gonzalez](https://www.linkedin.com/in/santiago-gutiérrez-gonzalez-9b7615203/) on LinkedIn
-    -[santigugon@gmail.com](mailto:santigugon@gmail.com?subject=[GitHub]%20Source%20Han%20Sans)
-    -[Phone](<a href="52 479 137-0321">)
+    - [My portofolio]() 
+    - [Santiago Gutierrez Gonzalez](https://www.linkedin.com/in/santiago-gutiérrez-gonzalez-9b7615203/) on LinkedIn
+    - [santigugon@gmail.com](mailto:santigugon@gmail.com?subject=[GitHub]%20Source%20Han%20Sans)
+    - [Phone](<a href="52 479 137-0321">)
 - :carousel_horse: Me outside being a developper: I have been working as an outdoor instructor since I was 15, meeting people from
   around 50 different nationalities.
 - :flight_departure: I love traveling: I have visited 16 countries.
