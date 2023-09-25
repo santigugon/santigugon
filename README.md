@@ -17,7 +17,7 @@
 - 📫 How to reach me:
     - [My portofolio]() 
     - [Santiago Gutierrez Gonzalez](https://www.linkedin.com/in/santiago-gutiérrez-gonzalez-9b7615203/) on LinkedIn
-    - [santigugon@gmail.com](mailto:santigugon@gmail.com?subject=[GitHub]%20Source%20Han%20Sans)
+    - [santigugon@gmail.com](mailto:santigugon@gmail.com?subject=[GitHub]%20Contact:%20ReadMe)
     - [Phone](<a href="52 479 137-0321">)
 - :carousel_horse: Me outside being a developper: I have been working as an outdoor instructor since I was 15, meeting people from
   around 50 different nationalities.
