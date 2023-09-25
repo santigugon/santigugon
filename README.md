@@ -1,8 +1,5 @@
-### Hi there 👋
-
-
-**santigugon/santigugon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+### Hi there I am Santiago Gutierrez Gonzalez a second year Software Engineer student in 
+[Tec de Monterrey](https://tec.mx/es)👋
 
 - 🔭 I’m currently working on:
     -:convenience_store: [Painless Super](https://painlesssuper.com)
