@@ -24,4 +24,4 @@
 - :flight_departure: I love traveling: I have visited 16 countries.
 
  [![Santiago's github stats](https://github-readme-stats.vercel.app/api?username=santigugon&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=santigugon)](https://github.com/santigugon/github-readme-stats)
+[![Top Langs](https://github-readme-stats-ruby-one.vercel.app/api/top-langs/?username=santigugon)](https://github.com/santigugon/github-readme-stats)
