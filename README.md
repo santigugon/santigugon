@@ -5,7 +5,7 @@
         A JS+NODE.JS+MONGODB Project to compare supermarkets and get the best opportunities.
     - :red_car: [Tire Direct]()
         A Php+MySql+JS Project to manage a company Vehicles
-    - :building_construction: [Codestructures]()
+    - :building_construction: [AlgoStructures]()
         An open Source project to learn Algorithms and Data Structures
         built with React.
 - 🌱 I’m currently learning React and how to create an Open Source Project
